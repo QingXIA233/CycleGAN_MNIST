@@ -10,7 +10,7 @@ from matplotlib import pyplot
 import click
 import tensorflow as tf
 
-import data_loader, losses, model
+import data_loader, loss_ssim, model
 
 slim = tf.contrib.slim
 
