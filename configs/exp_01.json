@@ -7,5 +7,7 @@
   "csv_name": "./input/train/mnist_train.csv",
   "_LAMBDA_A": 10,
   "_LAMBDA_B": 10,
+  "_LAMBDA_SSIM_A": 10,
+  "_LAMBDA_SSIM_B": 10,
   "_SAVE_FREQ": 10.0
 }
