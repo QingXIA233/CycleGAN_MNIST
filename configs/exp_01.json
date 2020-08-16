@@ -1,0 +1,11 @@
+{
+  "description": "The official PyTorch version of CycleGAN.", 
+  "pool_size": 50,
+  "base_lr":0.0002,
+  "max_step": 200,
+  "network_version": "pytorch",
+  "csv_name": "./input/train/mnist_train.csv",
+  "_LAMBDA_A": 10,
+  "_LAMBDA_B": 10,
+  "_SAVE_FREQ": 10.0
+}
