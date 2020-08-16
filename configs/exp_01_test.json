@@ -1,0 +1,6 @@
+{
+  "description": "Testing with trained model.",
+  "network_version": "pytorch",
+  "csv_name": "./input/test/mnist_test.csv",
+  "_SAVE_FREQ": 10.0
+}
